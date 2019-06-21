@@ -1,0 +1,84 @@
+#search{
+    width: 100%;
+    height: 0.65rem;
+    border: none;
+    padding-left: 0.6rem;
+    border-radius: 0.1rem
+}
+#search:focus{
+    outline: none;
+    
+}
+.sousdf{
+    padding: 0.2rem;
+    background-color: #f4f4f4;
+    height: 1rem;
+    width: 100vw;
+    position: relative;
+}
+.sosdf{
+    position: absolute;
+    left: 0.4rem;
+    top: 0.4rem;
+    color: #f4f4f4;
+}
+.hots{
+    padding-top:0.3rem;
+    padding-left: 0.3rem;
+    padding-right:0.3rem
+}
+.hotstitle{
+    font-weight: bold;
+}
+.bubble span{
+    border: 1px solid #333;
+    border-radius: 0.3rem;
+    padding:0.05rem 0.2rem;
+    display: inline-block;
+    margin: 0.08rem
+}
+.quxiao{
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: #f4f4f4;
+    line-height:1rem;
+    height: 1rem;
+    padding: 0 0.2rem
+}
+.XX{
+    position: absolute;
+    right: 1.2rem;
+    top: 0.3rem;
+    border-radius: 50%;
+    color: white;
+    background-color: #ccc;
+    width: 0.4rem;
+    height: 0.4rem;
+    font-size:0.25rem;
+    text-align: center;
+    line-height: 0.4rem;
+}
+.sdfsd{
+    display:flex;
+    height: 1.1rem;
+    /* background-color: red; */
+    border-bottom: 1px solid #ccc;
+    padding: 0.15rem
+}
+.tubiao{
+    width: 1rem;
+    height: 1.1rem;
+    margin-top: .2rem;
+    text-align: center;
+}
+
+.sdfs p{
+    margin-bottom: 0px
+}
+.sdfs .mingzi{
+    font-weight:bold;
+}
+.wirter{
+    font-size:0.25rem;
+}

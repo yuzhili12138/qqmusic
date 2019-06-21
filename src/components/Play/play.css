@@ -1,0 +1,109 @@
+.guanlitupian img{
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 0.3rem;
+   
+}
+
+.qusilayasi{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.box{
+    text-align: center;
+    padding-top: 1.2rem;
+}
+.goback{
+    width: 100vw;
+    height: 1rem;
+    background-color: #f8f8f8;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.houtui{
+    font-size: 0.5rem;
+    margin-top: 0.25rem;
+    margin-left: 0.3rem;
+}
+.fdfgdfgdfg{
+    background-color: #f8f8f8;
+}
+
+.first{
+    margin-top: 0.4rem;
+    font-size:0.33rem;
+    color: black;
+}
+.two{
+    font-size:0.33rem;
+    color: black;
+}
+.time{
+    font-size:0.25rem;
+}
+.greenbutton{
+    width: 3.5rem;
+    height: 0.7rem;
+    background-color: #22d59c;
+    box-shadow: 0 6px 32px rgba(24,213,156,.5);
+    margin: 0 auto;
+    border-radius: 0.4rem
+}
+.huibianle{
+    color: white;
+    display: inline-block;
+    margin-top: 0.1rem;
+    margin-left: 0.11rem
+}
+.gong{
+    padding: 0.25rem
+}
+.yigong{
+    font-size: 0.23rem
+}
+
+.fengg{
+    display: flex;
+    padding: 0.15rem
+}
+.oneone{
+   
+    width:0.5rem;
+    text-align: center;
+}
+.middle{
+    flex: 1;
+}
+.middle p,.oneone p{
+    margin: 0;
+}
+.on-on{
+    font-size: 0.2rem;
+    line-height: 0.5rem;
+    color: none;
+}
+.on-on2{
+    color: red;
+    font-size: 0.25rem;
+}
+.on-on3{
+    font-size: 0.25rem;
+}
+.geming{
+    color:black;
+    font-size: 0.25rem
+}
+.anniu{
+    margin-right: 0.4rem;
+    margin-top: 0.0rem;
+    opacity: 0.7;
+    font-size: 0.4rem
+}
+.sdfsdf{
+    font-size: 0.4rem!important
+}
+ul{
+    margin-bottom: 0!important
+}

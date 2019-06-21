@@ -1,0 +1,57 @@
+.listImg img{
+    width: 2rem;
+    height: 2rem;
+}
+.detial p{
+margin-bottom: 0;
+
+}
+.detial{
+    background-color: white;
+}
+.wer{
+    display: flex;
+    height:2rem;
+    position: relative;
+    margin: 0 0.2rem 0.2rem;
+}
+.detilanei{
+    padding: 0.1rem 0.25rem;
+    color: black;
+}
+.detilanei h2{
+    font-size: 0.35rem;
+    margin-bottom: 0.05rem;
+}
+.xuhao{
+    color: rgba(0,0,0,.5);
+}
+.huanhao{
+    text-overflow:ellipsis;
+    width: 4.3rem;
+    overflow:hidden;
+    white-space:nowrap;
+}
+.jiantou{
+    font-size: 0.3rem;
+    position: absolute;
+    right: 0.1rem;
+    bottom: 0.9rem;
+    opacity: 0.5;
+}
+.beijing{
+    background-color: #f4f4f4;;
+}
+.ulul{
+    padding-top: 0.2rem;
+    padding-bottom:1rem
+}
+
+.erji{
+    position: absolute;
+    font-size: 0.15rem;
+    left: 0.1rem;
+    bottom: 0.1rem;
+    color: white;
+    opacity: 0.7;
+}
